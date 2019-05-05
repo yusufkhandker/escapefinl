@@ -1,0 +1,343 @@
+/*Fonts*/
+@font-face
+{
+	font-family: BrandonGrotesque-Medium;
+	src: url(../fonts/BrandonGrotesque-Medium.ttf);	
+}
+
+@font-face
+{
+	font-family: BrandonGrotesque-Light;
+	src: url(../fonts/BrandonGrotesque-Light.ttf);	
+}
+
+@font-face
+{
+	font-family: BrandonGrotesque-Bold;
+	src: url(../fonts/BrandonGrotesque-Bold.ttf);	
+}
+@font-face
+{
+	font-family: BrandonGrotesque-Regular;
+	src: url(../fonts/BrandonGrotesque-Regular.ttf);	
+}
+/*Fonts*/
+
+/*Header start*/
+
+
+header{
+	padding-top: 25px;
+	background-image: url(../images/back.jpg);
+	background-size: cover;
+}
+
+.menu ul li a{
+	font-family: BrandonGrotesque-Medium;
+	font-size: 18px;
+	padding: 0 20px !important;
+	color: #ffffff !important;
+	transition: 0.2s;
+}
+
+.menu ul li a:hover{
+	color: #bdbdbd !important;
+}
+
+.midsec{
+    padding: 100px 0px;
+    text-align: center;
+}
+
+.midsecc{
+	margin-bottom: 115px;
+	text-align: center;
+}
+
+.midsec p{
+	font-family: BrandonGrotesque-Light;
+	font-size: 30px;
+	color: white !important;
+
+}
+
+.midsec h1{
+	font-family: BrandonGrotesque-Bold;
+	color: white !important;
+	font-size: 68px;
+	padding-bottom: 35px;
+}
+
+.midsec button{
+	font-family: BrandonGrotesque-Bold;
+	color: white;
+	padding-right: 50px;
+	padding-left: 50px;
+}
+
+/*2nd Section*/
+
+.midsectionn{
+    margin-top: 50px;
+}
+.midinfo{
+
+}
+
+.midhone{
+
+
+
+}
+
+.midhone ul {
+	    margin-bottom: 25px;
+
+}
+
+.midhone ul li{
+	
+}
+
+.webb{
+     font-size: 40px;
+	font-family: BrandonGrotesque-Light;
+
+}
+
+.Devv{
+	font-size: 40px;
+    font-family: BrandonGrotesque-Bold;
+}
+
+.midinfo p{
+	font-family: BrandonGrotesque-Regular;
+	font-size: 15px;
+}
+
+.midinfoimg{
+	margin-top: 18px;
+
+}
+
+.thrdback{
+	
+	margin-top: 50px;
+	background-color: #f5f5f5;
+	
+}
+
+.thrddd{
+	margin-top: 50px;
+	margin-bottom:50px;
+}
+
+
+/*Features Start */
+
+.features{
+	    margin-top: 100px;
+        margin-left: 180px;
+        margin-bottom: 60px;
+}
+
+.single{
+
+}
+
+.mrbttm{
+   margin-bottom: 25px;
+}
+
+.icon{}
+
+.iconcontent{}
+
+.iconcontent h2{
+	font-family: BrandonGrotesque-Medium;
+	font-size: 25px;
+}
+
+.iconcontent p{
+	font-family: BrandonGrotesque-Regular;
+	font-size: 15px;
+}
+
+/*Features Stop */
+
+
+/*5th section Start */
+
+.fivesection{
+	background-color: #f5f5f5;
+
+}
+.margintoop{
+	margin-top: 50px;
+}
+.catchfive{
+	margin-left: 300px;
+
+}
+
+.catchfive ul{}
+
+.catchfive ul li{}
+
+.catchfive li{}
+
+.catchfive  p{
+   font-family: BrandonGrotesque-Regular;
+   font-size:17px;
+
+}
+
+.fontfmly{
+
+	font-family: BrandonGrotesque-Regular;
+	font-size:18px;
+
+}	
+.goright{
+	margin-left: 50px;
+
+}
+.catchround{
+
+}
+
+.catchfrstroundp{
+	margin-top: 50px;
+
+}
+
+.goleft{
+    margin-left: 270px;
+}
+
+.catchfrstroundp2{
+	margin-top: 50px;
+}
+.catchround2{
+	margin-left: 50px;
+    margin-top: 30px;
+}
+
+.marginbtomm{
+	margin-bottom: 50px;
+}
+/*5th images section Start */
+.fimages{
+	margin-top:50px;
+	margin-bottom: 50px;
+}
+
+.fimgg img{
+	margin-right: 25px;
+}
+/*5th images section Stop */
+
+/*6th  section Start */
+.sixsection{
+	    background-color: #111111;
+}
+.colorrr{
+	color:white;
+}
+
+.sixfstpclr{
+	color: #777777;
+}
+.catchulround{
+	margin-top: 40px;
+}
+
+.catchulround li{}
+
+.oneof3{}
+
+.towof3{}
+
+.threeof3{}
+
+
+
+
+.catchsixitms{
+	margin-left: 215px;
+	    margin-bottom: 50px;
+}
+
+.catchsixitms ul{}
+
+
+.catchsixitms ul li{
+	    text-align: center;
+}
+
+
+.catchsixitms h1{
+	font-family: BrandonGrotesque-Medium;
+    font-size: 25px;
+}
+
+
+.catchsixitms p{
+	font-family: BrandonGrotesque-Regular;
+    font-size: 15px;
+}
+.sixlstp{
+	    margin-left: 70px;
+	    padding-top: 40px;
+	    color: #ebebeb;
+}
+/*6th  section Stop */
+
+/*7th  section Start */
+.svnsec{
+	background-color: #7690c5;
+}
+.svnsecthp{
+
+	margin-bottom: 40px;
+
+}
+.fstofsvn{
+	margin-bottom: 20px;
+}
+
+
+.sevensecfroms{
+	   margin-top: 60px;
+
+}
+
+.sevensecfroms input{
+
+	margin-bottom: 20px;
+
+}
+
+.namefrm{}
+
+.emlfrm{}
+
+.msgfrm{
+
+	height: 165px;
+    width: 445px;
+    
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+/*7th  section Start */
